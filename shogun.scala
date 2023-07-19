@@ -1,4 +1,4 @@
-// Resit about the Shogun Board Game
+// Shogun Board Game
 //===================================
 
 // Task 1 - 5 see below
