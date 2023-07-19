@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  PEP Resit 2023 C++ Number Set
+//  
 //
 //
 //
