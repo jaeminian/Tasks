@@ -1,5 +1,5 @@
 import Resit.{decx, eval}
-// Shogun Board Game
+// Resit about the Shogun Board Game
 // ===================================
 
 // Task 1 - 5 see below
@@ -485,7 +485,5 @@ object Resit {
   println(s"all moves: ${all_moves(pw2, bt)}") // Set(Pawn(4,Wht,(4,2)), Pawn(4,Wht,(1,7)), Pawn(4,Wht,(5,3)), Pawn(4,Wht,(5,5)), Pawn(4,Wht,(2,8)), Pawn(4,Wht,(3,7)), Pawn(4,Wht,(6,4)))
 */
   
-  // 메인 함수 실행 시 필요, 제출시 삭제
-  def main(args: Array[String]): Unit = {
-  }
+  
 }
